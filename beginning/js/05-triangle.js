@@ -1,6 +1,8 @@
-let triangle = "";
+// Looping a Triangle
+
+let line = "";
 
 for (let i = 1; i <= 7; i++) {
-  triangle += "#";
-  console.log(triangle);
+  line += "#";
+  console.log(line);
 }
